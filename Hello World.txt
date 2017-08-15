@@ -1,2 +1,2 @@
-Hello
-This is a text File for polarion
+Hello 
+This is a text File for polarion!
